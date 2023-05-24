@@ -1,0 +1,11 @@
+Model Information:
+* title:	Nebula Mapa
+* source:	https://sketchfab.com/3d-models/nebula-mapa-d7092a5654fd4735a55afe32e2dae4c4
+* author:	ssierra1202 (https://sketchfab.com/ssierra1202)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Nebula Mapa" (https://sketchfab.com/3d-models/nebula-mapa-d7092a5654fd4735a55afe32e2dae4c4) by ssierra1202 (https://sketchfab.com/ssierra1202) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
